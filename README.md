@@ -46,7 +46,7 @@
 <br/>
 
 <!--
-### 🏃🏻 Experience,*
+### 🏃🏻 Experience,
 - 인프런 워밍업 클럽 4기 과정 수료
 
 ### :beers: *Contact me*

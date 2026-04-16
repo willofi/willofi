@@ -47,7 +47,7 @@
 ### 🧐 *Agents*
 <img src="https://img.shields.io/badge/claude-FC6D26?style=for-the-badge&logo=claude&logoColor=f5f5f5"/>&nbsp;
 <img src="https://img.shields.io/badge/codex-F5F5F5?style=for-the-badge&logo=openaigym&logoColor=000000"/>&nbsp;
-
+<img src="https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=f5f5f5"/>&nbsp;
 <br/>
 
 <!--

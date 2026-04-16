@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>&nbsp; -->
 <br>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>&nbsp;
@@ -43,11 +43,12 @@
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=F5F5F5"/>&nbsp;
 
 ### 🧐 *Agents*
 <img src="https://img.shields.io/badge/claude-FC6D26?style=for-the-badge&logo=claude&logoColor=f5f5f5"/>&nbsp;
 <img src="https://img.shields.io/badge/codex-F5F5F5?style=for-the-badge&logo=openaigym&logoColor=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=F5F5F5"/>
+
 <br/>
 
 <!--

@@ -22,13 +22,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white"/>&nbsp;
 <br>
-<img src="https://img.shields.io/badge/git-f5f5f5?style=for-the-badge&logo=git&logoColor=FC6D26"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-F5F5F5?style=for-the-badge&logo=Notion&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"/>&nbsp;
 
 ### 🗄️ *Database*
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
@@ -36,15 +30,27 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oculus&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
 
-### ☁️ *Infra*
+### ☁️ *DevOps / Infra*
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=icloud&logoColor=F5F5F5"/>&nbsp;
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>&nbsp;
+
+### 🧰 *Tools*
+<img src="https://img.shields.io/badge/git-f5f5f5?style=for-the-badge&logo=git&logoColor=FC6D26"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-F5F5F5?style=for-the-badge&logo=Notion&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"/>&nbsp;
+
+### 🔎 *Monitoring*
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white"/>&nbsp;
+
+### 🔁 *Automation*
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=F5F5F5"/>&nbsp;
 
-### 🧐 *Agents*
+### 🤖 *AI Tools*
 <img src="https://img.shields.io/badge/claude-FC6D26?style=for-the-badge&logo=claude&logoColor=f5f5f5"/>&nbsp;
 <img src="https://img.shields.io/badge/codex-F5F5F5?style=for-the-badge&logo=openaigym&logoColor=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=f5f5f5"/>&nbsp;

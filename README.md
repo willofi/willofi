@@ -46,9 +46,11 @@
 
 ### 🔎 *Monitoring*
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/>&nbsp;
 
 ### 🔁 *Automation*
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=F5F5F5"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white"/>&nbsp;
 
 ### 🤖 *AI Tools*
 <img src="https://img.shields.io/badge/claude-FC6D26?style=for-the-badge&logo=claude&logoColor=f5f5f5"/>&nbsp;

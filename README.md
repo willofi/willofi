@@ -41,6 +41,3 @@
 ![Claude](https://img.shields.io/badge/Claude-FC6D26?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-F5F5F5?style=flat-square&logo=openai&logoColor=000000)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willofi&show_icons=true&theme=dracula)](https://github.com/willofi/willofi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willofi&langs_count=10&layout=compact&theme=dark)](https://github.com/willofi/willofi)
